@@ -1,0 +1,7 @@
+Experiment Name = default
+Model Type      = mynet
+Num epochs      = 80
+Batch size      = 32
+Use adam        = True
+Learning rate   = 0.0011
+Scheduler step  = [16, 32, 45, 68, 80]
